@@ -1,0 +1,10 @@
+[package]
+name = "statrs-test"
+version = "0.1.0"
+authors = ["Josh"]
+edition = "2018"
+
+[dependencies]
+statrs = "*"
+# statrs = "0.13"
+rand = "0.8.3"
